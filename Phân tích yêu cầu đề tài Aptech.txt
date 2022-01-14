@@ -1,0 +1,24 @@
+TRANG WEB YÊU CẦU:
+
+- Trang chủ phải có những dòng mô tả về các loại virus, các loại virus cũng cần được 
+liệt kê (Các link chuyển hướng cũng cần được liệt kê)
+- Trang web cần cung cấp những mục như "About us", "Types of Virus", "Year wise listing",
+"Contact us"
+- Với mỗi mẩu thông tin cần cung cấp danh sách các từ khóa hợp lệ với thông tin ngắn gọn
+- Với mỗi link cần có dẫn tới 1 trang hợp lệ, dùng ảnh nếu cần thiết
+- Một vài thông tin và con số về sự tấn công bởi virus cũng cần được cung cấp
+- Trang Contact Us cần cung cấp nhanh thông tin về địa chỉ và vị trí trên map của văn phòng
+Vertex Systems
+- Các trang riêng biệt hoặc các mục cho nhiều loại virus khác nhau cần được cung cấp thêm
+thông tin và ảnh chi tiết hơn
+- Các thông tin chi tiết cần bao gồm các nhiều đầu mục như "Year Originated", "Location 
+of Origin", "Spread of Virus/Disease", "Precautions required"...
+- Các thông tin như vị trí cần được biểu diễn trên Map (Geolocation)
+- Mục Feedback cần được nhận các thông tin trên website
+=======================================================================================================================
+CÁC KỊCH BẢN CẦN CÓ:
+
+- Trang chủ cần có ô mục section mô tả ngắn gọn về virus như hình ảnh, tiêu đề, mô tả nhanh,...
+- Khi click vào các ô mục thì có thể direction tới 1 trang có thông tin chi tiết hơn như nơi đầu tiên phát hiện, đường lây, thiệt hại gây ra....
+- Kịch bản feedback từ người dùng sẽ là: Khi muốn gửi feedback sẽ cần đăng nhập, admin sẽ biết được feedback nào là của người nào
+- Cần validate các thông tin trong mục feedback và cả CRUD của admin
